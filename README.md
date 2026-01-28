@@ -1,4 +1,4 @@
-### ![MasterHead](https://cdn.discordapp.com/attachments/1221904791647686746/1465978024796360746/standard.gif?ex=697b11ed&is=6979c06d&hm=f6fab25233e20cdf2f7e65cee89247f52a8dcf61f18fa5517fa18189b4942867&)
+### ![MasterHead](https://cdn.discordapp.com/attachments/1221904791647686746/1465978024796360746/standard.gif)
 
 # Hi 👋, I'm Bhashitha Ekanayaka
 ### A passionate Frontend Developer & UI/UX enthusiast

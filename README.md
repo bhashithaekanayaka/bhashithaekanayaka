@@ -13,7 +13,7 @@
 - 💻 Specializing in **Frontend Development** with modern frameworks
 - 🎨 Passionate about creating beautiful, user-friendly interfaces
 - 🌱 Always learning and exploring new technologies
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[bhashithaekanayaka@gmail.com]**
 - 💬 Ask me about **React, JavaScript, UI/UX Design & Web Development**
 
 ---

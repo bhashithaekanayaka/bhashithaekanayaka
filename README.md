@@ -1,4 +1,4 @@
-### ![MasterHead](https://cdn.discordapp.com/attachments/1221904791647686746/1465970979787243607/9070324cdfc07c68d60eed0c39e77573.gif?ex=697b0b5e&is=6979b9de&hm=7846a3c758555bd1eebabec96521945c491493e4c57eee8876a81bce549f0fb2&)
+### ![MasterHead](https://cdn.discordapp.com/attachments/1150175112872591451/1465957511210340507/image_1.png?ex=697afed2&is=6979ad52&hm=1ec2b1d00c153c68d9cf993c698fa21ff075ebcae6adf806b13b103f15897ed6&)
 
 # Hi 👋, I'm Bhashitha Ekanayaka
 ### A passionate Frontend Developer & UI/UX enthusiast
@@ -7,11 +7,13 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U1anJ6emZoY2IzbGhjemhsd2EycjhydDhvYzQ4anRoank1N3YxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
+
 - 🔭 I'm currently working on innovative web projects
 - 💻 Specializing in **Frontend Development** with modern frameworks
 - 🎨 Passionate about creating beautiful, user-friendly interfaces
 - 🌱 Always learning and exploring new technologies
-- 📫 How to reach me: **[bhashithaekanayaka@gmail.com]**
+- 📫 How to reach me: **[your-email@example.com]**
 - 💬 Ask me about **React, JavaScript, UI/UX Design & Web Development**
 
 ---

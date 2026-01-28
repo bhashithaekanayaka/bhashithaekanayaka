@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U1anJ6emZoY2IzbGhjemhsd2EycjhydDhvYzQ4anRoank1N3YxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
+<img align="right" alt="Coding" width="175" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U1anJ6emZoY2IzbGhjemhsd2EycjhydDhvYzQ4anRoank1N3YxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 - 🔭 I'm currently working on innovative web projects
 - 💻 Specializing in **Frontend Development** with modern frameworks
